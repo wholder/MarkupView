@@ -35,7 +35,7 @@ _This is italic text_
 
 ## Lists
 
-Unordered
+###Unordered
 
 + Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
@@ -45,7 +45,7 @@ Unordered
     - Nulla volutpat aliquam velit
 + Very easy!
 
-Ordered
+###Ordered
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
@@ -55,7 +55,7 @@ Ordered
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
 
-Start numbering with offset:
+###Start numbering with offset:
 
 57. foo
 1. bar

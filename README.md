@@ -16,7 +16,7 @@ You can try out the program just by downloading the pre-built, executable JAR fi
 
 ## Credit and Thanks
 This project would have been much harder and much less cool without help from the following open source projects, or freely available software.
-- [TxtMark](https://github.com/scream3r/java-simple-serial-connector) is used as a speedy way to convert MarkDown to HTML.
+- [TxtMark](https://github.com/rjeschke/txtmark) is used as a speedy way to convert MarkDown to HTML.
 - [IntelliJ IDEA from JetBrains](https://www.jetbrains.com/idea/) (my favorite development environment for Java coding. Thanks JetBrains!)
 
 ### License
